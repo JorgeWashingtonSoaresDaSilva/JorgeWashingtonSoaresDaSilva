@@ -16,7 +16,8 @@
 - 🌱 Atualmente estudo: limguagem Java a fundo ...
 - 
 <div>
-  <a href="https://github.com/JorgeWashingtonSoaresDaSilva>
-  <img height = "180em" src = "https://github.com-readme-starts.vercel.app/api?username=JorgeWashingtonSoaresDaSilva&show_icons "
+ <a href="https://github.com/JorgeWashingtonSoaresDaSilva"/>
+  <img height= "180em" src ="https://github-readme-stats.vercel.app/api?username=JorgeWashingtonSoaresDaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_privete=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeWashingtonSoaresDaSilva&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
