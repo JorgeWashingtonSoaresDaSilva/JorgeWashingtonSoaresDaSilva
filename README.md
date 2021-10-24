@@ -13,8 +13,7 @@
 
 
 <!-- 🔭 I’m currently working on ...-->
-- 🌱 Atualmente estudo: limguagem Java a fundo ...
-- 
+- 🌱 Atualmente estudo: limguagem Java a fundo ... 
 <div>
  <a href="https://github.com/JorgeWashingtonSoaresDaSilva"/>
   <img height= "160em" src ="https://github-readme-stats.vercel.app/api?username=JorgeWashingtonSoaresDaSilva&show_icons=true&theme=dark&include_all_commits=true&count_privete=true"/>
